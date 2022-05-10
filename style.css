@@ -1,0 +1,21 @@
+.kenny {
+  background-image: url(https://media-exp1.licdn.com/dms/image/C4D03AQElmX5tLrl0lg/profile-displayphoto-shrink_800_800/0/1560553598667?e=1657756800&v=beta&t=h7wXAgJfYBP3NLNjxwzX6GX3jLhs_ybd5TwRRkWqOGA);
+  height: 100vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: hotpink;
+  font-size: xxx-large;
+}
+
+.title {
+  padding-top: 20px;
+  padding-left: 20px;
+  font-size: xxx-large;
+  font-weight: 700;
+}
+
+.subtitle {
+  padding-left: 20px;
+  font-size: x-large;
+  font-weight: 500;
+}
